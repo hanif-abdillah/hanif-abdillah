@@ -20,6 +20,7 @@
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" alt="WebStorm" width="24">](https://www.jetbrains.com/webstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="24">](https://www.figma.com/) |
 |---|---|---|
 
+##
 ###
 <h3>Connect with Me 🤝</h3>
 
