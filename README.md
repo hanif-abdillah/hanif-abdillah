@@ -3,7 +3,7 @@
 
 <div>
     <p>
-        I'm interested in the field of Front End Web Development and Web Design. I have intermediate skills in React JS, Bootstrap CSS, and Tailwind CSS. Additionally, I have a basic understanding of Back End Development using PHP Laravel and Express Js. My foundational skills also involve Internet of Things. I am a perfectionist capable of working both independently and in a team. I have an interest and curiosity about new things.
+        I'm interested in the field of Front End Web Development and Web Design. I have intermediate skills in React JS, Bootstrap CSS, and Tailwind CSS. Additionally, I have a basic understanding of Back End Development using PHP Native and Express Js. My foundational skills also involve Internet of Things and Network Engineer. I am a perfectionist capable of working both independently and in a team. I have an interest and curiosity about new things.
     </p>
 </div>
 
