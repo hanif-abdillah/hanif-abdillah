@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Hanif Abdillah](https://github.com/hanif-abdillah)
+### Hi there 👋 I'm [Hanif Abdillah](https://hanif-abdillah.vercel.app/)
 > Intermediate Front End Web Developer
 
 <div>
@@ -24,4 +24,4 @@
 ###
 <h3>Connect with Me 🤝</h3>
 
-[Linkedin](https://www.linkedin.com/in/hanif-abdillah-7a5aa02b7/) | [Instagram](https://instagram.com/hanif.ab_)
+[Linkedin](https://www.linkedin.com/in/hanif-abdillah-7a5aa02b7/) | [Instagram](https://instagram.com/hanif.ab_) | [Personal Profile](https://hanif-abdillah.vercel.app/)
